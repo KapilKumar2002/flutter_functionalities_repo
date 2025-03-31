@@ -1,4 +1,4 @@
-// providers/connectivity_provider.dart
+// providers/connectivity_provider/connectivity_provider.dart
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
